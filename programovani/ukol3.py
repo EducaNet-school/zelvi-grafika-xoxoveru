@@ -1,0 +1,38 @@
+import turtle
+t = turtle.Turtle() 
+
+for i in range(3):
+    t.forward(50)
+    t.left(120)
+
+t.left(120)
+
+for i in range(3):
+    t.forward(50)
+    t.left(120)
+
+t.left(120)
+
+for i in range(3):
+    t.forward(50)
+    t.left(120)
+
+t.left(180)
+
+for i in range(3):
+    t.forward(50)
+    t.left(120)
+
+t.left(120)
+
+for i in range(3):
+    t.forward(50)
+    t.left(120)
+
+t.left(120)
+
+for i in range(3):
+    t.forward(50)
+    t.left(120)
+
+input("")
